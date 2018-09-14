@@ -1,0 +1,9 @@
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\bin\Debug\Chat_Client(Multi).exe.config
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\bin\Debug\Chat_Client(Multi).exe
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\bin\Debug\Chat_Client(Multi).pdb
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client(Multi).csprojResolveAssemblyReference.cache
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client_Multi_.Form1.resources
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client_Multi_.Properties.Resources.resources
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client(Multi).csproj.GenerateResource.Cache
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client(Multi).exe
+D:\Frank\program\Chat_Client(Multi)\Chat_Client(Multi)\obj\Debug\Chat_Client(Multi).pdb

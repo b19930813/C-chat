@@ -1,0 +1,9 @@
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\bin\Debug\Chat_Server(Multi).exe.config
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\bin\Debug\Chat_Server(Multi).exe
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\bin\Debug\Chat_Server(Multi).pdb
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server(Multi).csprojResolveAssemblyReference.cache
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server_Multi_.Server.resources
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server_Multi_.Properties.Resources.resources
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server(Multi).csproj.GenerateResource.Cache
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server(Multi).exe
+c:\users\youngtec\documents\visual studio 2015\Projects\Chat_Server(Multi)\Chat_Server(Multi)\obj\Debug\Chat_Server(Multi).pdb
